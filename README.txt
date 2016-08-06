@@ -3,3 +3,5 @@ Hi there!
 I'm Steve. 
 
 Nice to meet you here.
+
+It's easy to use Git.
